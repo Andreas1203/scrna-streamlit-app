@@ -1,0 +1,10 @@
+streamlit
+scanpy
+anndata
+pandas
+matplotlib
+numpy
+seaborn
+scipy
+plotly
+harmonypy
