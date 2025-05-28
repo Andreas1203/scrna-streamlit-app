@@ -24,9 +24,9 @@ https://www.docker.com/
 
 ### 2. Κατεβάστε τα αρχεία απο το Github και δημιουργεία φακέλου
 
-main1.py             # Κύριος κώδικας εφαρμογής Streamlit
-requirements.txt     # Απαιτούμενες βιβλιοθήκες
-Dockerfile           # Οδηγίες για Docker image
+- main1.py             # Κύριος κώδικας εφαρμογής Streamlit
+- requirements.txt     # Απαιτούμενες βιβλιοθήκες
+- Dockerfile           # Οδηγίες για Docker image
 
 ! Ο ΦΑΚΕΛΟΣ ΣΑΣ ΠΡΕΠΕΙ ΝΑ ΠΕΡΙΈΧΕΙ ΤΑ ΠΙΟ ΠΑΝΩ ΑΡΧΕΙΑ !
 
